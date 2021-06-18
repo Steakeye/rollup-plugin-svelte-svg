@@ -9,12 +9,12 @@
 		"README.md"
 	],
 	"dependencies": {
-		"rollup-pluginutils": "^2.8.2"
-	},
-	"devDependencies": {
+		"rollup-pluginutils": "^2.8.2",
 		"rimraf": "^3.0.2",
 		"rollup": "^2.47.0",
 		"svelte": "^3.38.2"
+	},
+	"devDependencies": {
 	},
 	"peerDependencies": {
 		"svelte": "3.x"
