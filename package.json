@@ -14,8 +14,7 @@
 		"rollup": "^2.47.0",
 		"svelte": "^3.38.2"
 	},
-	"devDependencies": {
-	},
+	"devDependencies": {},
 	"peerDependencies": {
 		"svelte": "3.x"
 	},
