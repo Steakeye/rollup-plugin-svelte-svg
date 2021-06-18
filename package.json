@@ -21,10 +21,10 @@
 	"scripts": {
 		"lint": "",
 		"clean": "rimraf dist",
-		"build": "pnpm clean && rollup -c",
+		"build": "npm clean && rollup -c",
 		"build:w": "rollup -w -c",
-		"pretest": "pnpm build",
-		"prepublishOnly": "pnpm build",
+		"pretest": "npm build",
+		"prepublishOnly": "npm build",
 		"prepare": "npm build"
 	},
 	"repository": {
