@@ -4,6 +4,7 @@
 	"description": "Import SVG images as Svelte Components",
 	"main": "dist/index.js",
 	"files": [
+		"src",
 		"dist",
 		"README.md"
 	],
