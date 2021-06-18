@@ -24,7 +24,8 @@
 		"build": "pnpm clean && rollup -c",
 		"build:w": "rollup -w -c",
 		"pretest": "pnpm build",
-		"prepublishOnly": "pnpm build"
+		"prepublishOnly": "pnpm build",
+		"prepare": "npm build"
 	},
 	"repository": {
 		"type": "git",
